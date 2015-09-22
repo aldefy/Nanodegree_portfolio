@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Appp Portfolio - Nanodegree</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_linkedin">Connect on LinkedIn</string>
+    <string name="action_github">My Github profile</string>
+
+
+    <string name="title">My Nanodegree apps</string>
+    <string name="app1_name">Spotify Streamer</string>
+    <string name="app2_name">Super Duo</string>
+    <string name="app3_name">Build It Bigger</string>
+    <string name="app4_name">XYZ Reader</string>
+    <string name="app5_name">Capstone</string>
+</resources>
